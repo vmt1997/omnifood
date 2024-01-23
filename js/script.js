@@ -163,7 +163,7 @@ const navHeight = header.getBoundingClientRect().height;
 const stickyNav = function (entries) {
   // const ent = entries[0];
   const [ent] = entries;
-  console.log(ent);
+  // console.log(ent);
   //   if (!ent.isIntersecting)
   //     document.querySelector('.header').classList.add('sticky');
   //   else document.querySelector('.header').classList.remove('sticky');
